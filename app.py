@@ -19,7 +19,7 @@ QR_THEMES = {
 QUALITY_OPTIONS = {
     "Tiêu chuẩn": 14,
     "Chất lượng cao": 20,
-    "Dùng để in ấn": 28,
+    "Dùng để in ấn": 24,
 }
 
 
@@ -283,15 +283,6 @@ st.markdown(
     <section class="hero">
         <div class="eyebrow">Tạo mã QR nhanh</div>
         <h1 class="exam-title">BÀI KIỂM TRA</h1>
-        <p class="exam-subtitle">
-            Tạo mã QR cho biểu mẫu, bài tập, bài kiểm tra trực tuyến
-            và các đường liên kết học tập chỉ trong vài giây.
-        </p>
-        <div class="feature-row">
-            <span class="feature-chip">Không cần cài đặt</span>
-            <span class="feature-chip">Tải ảnh PNG</span>
-            <span class="feature-chip">Dễ quét trên điện thoại</span>
-        </div>
     </section>
     """,
     unsafe_allow_html=True,
